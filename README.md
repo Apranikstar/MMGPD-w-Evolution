@@ -4,7 +4,8 @@
 If you used this code don't forget to cite the TK paper:
 https://github.com/quantom-collab/tiktaalik/tree/master
 
-## More Info about our Analysis (We added \xi dependancy to, which is not mentioned in the paper):
+## More Info about our Analysis 
+#### Note: (We added \xi dependancy to, which is not mentioned in the paper):
 PHYSICAL REVIEW D 107, 096005 (2023)
 
 ### Enviroment set up ( I don't like it too, but this should get you started)
